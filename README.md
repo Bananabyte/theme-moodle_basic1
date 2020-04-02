@@ -1,1 +1,1 @@
-# theme_moodle_basic1
+# theme-moodle_basic1
